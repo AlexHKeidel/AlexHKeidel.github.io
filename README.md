@@ -19,10 +19,20 @@ There are plans to create a mobile app, and browser version of the ScenarioViewe
 
 # Personal Projects
 
+## Processing
+A little fun project in Processing, a Java based programming language great for quick mock-ups, 2D and 3D animation and simple physics.
+
+[How to hang garlands and audioactive decay (Github repo)](https://github.com/AlexHKeidel/Processing)
+
+## Shopping List App (Android)
+A simple shopping list idea that I started to work on for fun
+
+[Github repo](https://github.com/AlexHKeidel/ShoppingListApplication)
+
 # University Coursework Projects
 
 ## Master's Project
-[Github Repo](https://github.com/AlexHKeidel/Initial_Prototype)
+[Github repo](https://github.com/AlexHKeidel/Initial_Prototype)
 
 A Java based GUI framework for comparing simple neural networks (Multi-layered Perceptrons) with different hidden layer, activation function, and learning algorithm configurations. The aim was to produce an easy to use interface driven program to allow novices (particulary in SME) to produce simple neural networks to test feasability of applying ML to custom problems and data. As a proof of concept the application was applied to a publically available dataset and compared and contrasted a number of different MLP architectures for a classificiation and regression problem. (Year 4)
 
