@@ -76,9 +76,9 @@ Logic programming with Prolog [Github repo](https://github.com/AlexHKeidel/Prolo
 
 
 ## Processing Games, Agents, Simple Pysics
-**Code missing**
+[Github repo](https://github.com/AlexHKeidel/Processing_Portfolio_Exercises)
 
-Thanks to the awesome features of OneDrive, my original code has been permanently deleted. For future reference, do not try to download whole folders as zip files, since sometimes there is an "error" downloading a file. Also, remember that your student account for 1TB of data runs out after 3 years, and they will freeze your account if you stay over the free 5GB limit afterwards.
+Portfolio exercises surrounding different concepts, such as 2D physics, agents and steering, velocity and acceleration, etc. encompassed into little games and simulations.
 
 
 ## Memorino (Arduino Board)
