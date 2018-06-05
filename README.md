@@ -1,9 +1,11 @@
 # Academic Research (no code)
 
-## Driver Behaviour (Machine Learning and Computer Vision)
+## Driver Behaviour
+The research focusses on exploring novel neural network architectures in combination with computer vision to understand driver behaviour in a video classification context.
+
 Technologies used in my contribution include applied machine learning algorithms (Python - Keras and Tensorflow), applied computer vision algorithms (OpenCV), experiment pipelines, and documentation (LaTeX).
 
-The code for this project belongs to Edge Hill University and some experiment pipelines may still be used at a later stage and will therefore not be made publically available until results are published.
+*The code for this project belongs to Edge Hill University and some experiment pipelines may still be used at a later stage and will therefore not be made publically available until results are published.*
 
 
 ## Scenario Viewer MiddleVR & Web API
@@ -14,8 +16,8 @@ Technologies used in my contribution include Unity3D (C#), MiddleVR, NodeJS (inc
 
 You can find a youtube video of the Edge Hill CAVE running an example virtualisation at the bottom of this page.
 
-The applications are not publically hosted but if you are interested in running or contributing to this project please feel free to contact me.
-There are plans to create a mobile app, and browser version of the ScenarioViewer which will take advantage of the web API.
+*The applications are not publically hosted but if you are interested in running or contributing to this project please feel free to contact me.
+There are plans to create a mobile app, and browser version of the ScenarioViewer which will take advantage of the web API.*
 
 # Personal Projects
 
@@ -25,7 +27,7 @@ A little fun project in Processing, a Java based programming language great for 
 [How to hang garlands and audioactive decay (Github repo)](https://github.com/AlexHKeidel/Processing)
 
 ## Shopping List App (Android)
-A simple shopping list idea that I started to work on for fun
+A simple shopping list idea that I started to work on for fun until the built-in Android Memo app started supporting nicer check lists.
 
 [Github repo](https://github.com/AlexHKeidel/ShoppingListApplication)
 
@@ -45,7 +47,7 @@ A mobile application developed in Xamarin (C#) for the [The National Youth Advoc
 
 ## "Music" from Data (Processing)
 Three different approaches to generating "music" from data [Github](https://github.com/AlexHKeidel/Music_from_Data):
-* Random vs Perlin noise
+* Random vs Perlin noise vs DataSet
 * Conway's Game of Life [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 * Genetic / Evolutionary Algorithm
 
@@ -61,18 +63,23 @@ A group project in which we (a group of 6 second year students) designed, protot
 
 My contributions are towards the general code of the application as well as the question screens when completing a tour. (Year 2)
 
-[private repository](https://github.com/cnicholas63/Risky-Business-Museum-App)
+*[**Private** repository](https://github.com/cnicholas63/Risky-Business-Museum-App)*
 
 ## Distributed Game of Nim (Java)
 [Github repo](https://github.com/AlexHKeidel/Game_of_Nim)
+
 A distributed client-server Java remote method inovkation (RMI) driven multiplayer (optional CPU using a rules based approach for winning the game, on easy mode there is a random chance the CPU makes a wrong move)game of Nim. The server side of the project supports concurrent games (multi-threading). Players interact with a custom terminal to issue commands such as starting a game and making their moves (given it is their turn). The game logic is implemented on the server to prevent cheating. (Year 3)
 
 ## Cluedo Game (C#)
-The game of Cluedo with a computer-science theme. Served as a learning project to apply OOP concepts (year 2). [Github repo](https://github.com/AlexHKeidel/CluedoGame)
+[Github repo](https://github.com/AlexHKeidel/CluedoGame)
+
+The game of Cluedo with a computer-science theme. Served as a learning project to apply OOP concepts (year 2).
 
 
 ## Prolog Exercises 
-Logic programming with Prolog [Github repo](https://github.com/AlexHKeidel/PrologExercises) (Year 4)
+[Github repo](https://github.com/AlexHKeidel/PrologExercises)
+
+Logic programming with Prolog, a rule based logic programming language as part of a functional and logic programming module (Year 4)
 
 
 ## Processing Games, Agents, Simple Pysics
@@ -103,7 +110,7 @@ A group project augmented reality mobile app utilising QR-code markers to provid
 
 # More Stuff
 
-## Scenario Viewer
+## Scenario Viewer (Interview featuring Brian Farrimond)
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/Dcr7B4mTt6Y?list=PLCL3Bum3k07X2t2HKdosGKnCcg-K4g8XQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
