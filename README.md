@@ -16,7 +16,7 @@ Technologies used in my contribution include Unity3D (C#), MiddleVR, NodeJS (inc
 
 You can find a youtube video of the Edge Hill CAVE running an example virtualisation at the bottom of this page.
 
-*The applications are not publically hosted but if you are interested in running or contributing to this project please feel free to contact me.
+*The applications are not publically hosted, but if you are interested in running the web-API or contributing to this project please feel free to contact me.
 There are plans to create a mobile app, and browser version of the ScenarioViewer which will take advantage of the web API.*
 
 # Personal Projects
