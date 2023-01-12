@@ -1,3 +1,6 @@
+# Professional Software Development (no code)
+Experienced in cloud and web-based application development with focus on C# .NET, T-SQL/MS SQL Server, Flutter, Angular, Azure, automated testing, and CI/CD.
+
 # Academic Research (no code)
 
 ## Driver Behaviour
